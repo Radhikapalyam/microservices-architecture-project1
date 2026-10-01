@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars.backup
+.terraform.lock.hcl
+crash.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jenkins
+*.pem
+*.key
